@@ -1,0 +1,28 @@
+h3{
+  color: white;
+}
+
+.schema, .mtgn, .canvas, .envarre, .intromedia, .kth, .linjalg, .komminf, .våglära, .progtek{
+  background-color: black;
+  width: fit-content;
+  margin: 1vw;
+  display: flex;
+  align-items: center;
+  border-style: solid;
+  border-color: white;
+  padding: 5px;
+}
+
+body{
+  background-color: black;
+}
+
+img{
+  background-color: white;
+  height: 30px;
+  margin-left: 5px;
+}
+
+img:hover{
+  opacity: 0.5;
+}
